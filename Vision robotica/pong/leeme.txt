@@ -1,0 +1,11 @@
+
+1. Cambia la extensión del archivo servidor.dat por servidor.exe
+2. Ejecuta el programa servidor.exe
+3. Ejecuta el archivo main.py desde tu editor de python
+
+Nota: Es necesario usar un entorno virtual con la versión python 3.10
+
+Para probar con dos clientes deberas utilizar el programa servidor2clientes.exe, 
+tiene la extensión .dat hay que cambiarla a .exe
+
+
