@@ -1,0 +1,10 @@
+Origen: 2
+Destino: 2
+Destinatario: 2
+Peso: 2
+
+Origen: 1
+Destino: 1
+Destinatario: 1
+Peso: 1
+

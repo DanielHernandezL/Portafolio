@@ -1,0 +1,5 @@
+Origen: 9
+Destino: 8
+Destinatario: 7
+Peso: 6
+

@@ -1,0 +1,10 @@
+Sistema operativo: IOS
+Memoria ROM: 16
+Memoria RAM: 32
+Numero de la computadora: 3
+
+Sistema operativo: Windows
+Memoria ROM: 64
+Memoria RAM: 128
+Numero de la computadora: 4
+

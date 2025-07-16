@@ -1,0 +1,3 @@
+Sistema operativo: Memoria ROM: Memoria RAM: Numero de la computadora: 
+Windows   128       32             1    
+IOS       32        8              3    
